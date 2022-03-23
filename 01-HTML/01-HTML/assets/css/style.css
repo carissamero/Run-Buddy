@@ -58,3 +58,7 @@ body {
     padding: 0;
     box-sizing: border-box;
   }
+  section {
+    padding: 60px;
+    background-image: url("01-HTML/assets/hero-bg.jpeg");
+  }

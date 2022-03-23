@@ -58,7 +58,16 @@ body {
     padding: 0;
     box-sizing: border-box;
   }
-  section {
+  .hero {
     padding: 60px;
-    background-image: url("01-HTML/assets/hero-bg.jpeg");
+    background-image: url("/Users/carissa/Desktop/Run-Buddy/01-HTML/assets/css/hero-bg.jpeg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+  }
+  .hero-form {
+    background-color: #fce138;
+    padding: 20px;
+    width: 500px;
+    color: #024e76;
   }

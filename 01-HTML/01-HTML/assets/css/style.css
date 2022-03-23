@@ -60,7 +60,7 @@ body {
   }
   .hero {
     padding: 60px;
-    background-image: url("/Users/carissa/Desktop/Run-Buddy/01-HTML/assets/css/hero-bg.jpeg");
+    background-image: url("/Users/carissa/Desktop/Run-Buddy/01-HTML/assets/images/hero-bg.jpeg");
     height: 600px;
     background-size: cover;
     background-position: center;

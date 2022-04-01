@@ -27,7 +27,7 @@ header a {
 
 header nav {
   float: right;
-  margin: 7px 0;
+  margin: 7px;
 }
 
 header nav ul li {
@@ -67,7 +67,7 @@ section {
   padding: 60px;
 }
 .hero {
-  background-image: url(../images/hero-bg.jpeg);
+  background-image: url(../assets/images/hero-bg.jpeg);
   height: 600px;
   background-size: cover;
   background-position: center;
